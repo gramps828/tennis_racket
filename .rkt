@@ -190,3 +190,25 @@
           (cons i (remove-dups (rest l)))))]))
 
 (remove-dups (list "a" "b" "b" "b" "c" "c"))
+
+;(cons 1 2)
+
+;(cons "banana" "split")
+
+;(car (cons 1 2))
+
+;(cdr (cons 1 2))
+
+;(pair? empty)
+
+;(pair? (list 1 2 3))
+
+;(cons (list 2 3) 1)
+
+;(cons 1 (list 2 3))
+
+;'(1 . (2 ))
+
+;(list (list 1) (list 2 3) (list 4))
+
+;(quote ((("red" 1)) ()("green" "blue")))
